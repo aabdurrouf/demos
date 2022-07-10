@@ -10,6 +10,3 @@ In the animation below, a pixel binning process of the M51 and M81 galaxies are 
    
 .. figure:: animation_pixbin_M81.gif
    :width: 800
-
-
-If the animation above doesn't run, please see the animation `here <https://github.com/aabdurrouf/piXedfit/blob/main/docs/source/demos_pixel_binning.rst>`_.
